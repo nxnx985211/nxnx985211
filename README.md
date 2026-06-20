@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+AI、创业、自媒体、医学
 <!--
 **nxnx985211/nxnx985211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
